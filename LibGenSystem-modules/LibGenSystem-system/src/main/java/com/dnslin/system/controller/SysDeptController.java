@@ -27,7 +27,7 @@ import com.dnslin.system.service.ISysDeptService;
 /**
  * 部门信息
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/dept")

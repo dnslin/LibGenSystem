@@ -30,7 +30,7 @@ import com.dnslin.job.util.CronUtils;
 /**
  * 调度任务信息操作处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/job")

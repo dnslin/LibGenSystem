@@ -7,7 +7,7 @@ import com.dnslin.gen.domain.GenTable;
 /**
  * 业务 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface IGenTableService
 {

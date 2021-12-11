@@ -25,7 +25,7 @@ import com.dnslin.system.service.ISysMenuService;
 /**
  * 菜单信息
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/menu")

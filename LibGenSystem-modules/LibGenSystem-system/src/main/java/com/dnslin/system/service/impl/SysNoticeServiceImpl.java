@@ -10,7 +10,7 @@ import com.dnslin.system.service.ISysNoticeService;
 /**
  * 公告 服务层实现
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class SysNoticeServiceImpl implements ISysNoticeService

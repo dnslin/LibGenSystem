@@ -3,7 +3,7 @@ package com.dnslin.system.domain;
 /**
  * 当前在线会话
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class SysUserOnline
 {

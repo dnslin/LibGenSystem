@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 /**
  * 网关启动程序
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })
 public class DnsLinGatewayApplication

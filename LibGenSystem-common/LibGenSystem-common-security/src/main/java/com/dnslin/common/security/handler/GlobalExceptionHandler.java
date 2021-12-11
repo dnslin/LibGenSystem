@@ -20,7 +20,7 @@ import com.dnslin.common.core.web.domain.AjaxResult;
 /**
  * 全局异常处理器
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

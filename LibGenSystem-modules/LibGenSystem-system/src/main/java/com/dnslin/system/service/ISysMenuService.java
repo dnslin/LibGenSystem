@@ -9,7 +9,7 @@ import com.dnslin.system.domain.vo.TreeSelect;
 /**
  * 菜单 业务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysMenuService
 {

@@ -26,7 +26,7 @@ import com.dnslin.system.service.ISysUserOnlineService;
 /**
  * 在线用户监控
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/online")

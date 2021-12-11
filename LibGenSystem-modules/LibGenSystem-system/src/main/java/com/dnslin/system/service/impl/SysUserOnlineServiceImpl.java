@@ -9,7 +9,7 @@ import com.dnslin.system.service.ISysUserOnlineService;
 /**
  * 在线用户 服务层处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class SysUserOnlineServiceImpl implements ISysUserOnlineService

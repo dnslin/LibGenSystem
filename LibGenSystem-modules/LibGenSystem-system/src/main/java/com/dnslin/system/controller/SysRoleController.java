@@ -30,7 +30,7 @@ import com.dnslin.system.service.ISysUserService;
 /**
  * 角色信息
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/role")

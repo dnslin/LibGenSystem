@@ -8,7 +8,7 @@ import com.dnslin.job.domain.SysJob;
 /**
  * 定时任务调度信息信息 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysJobService
 {

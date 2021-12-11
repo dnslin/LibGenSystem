@@ -14,7 +14,7 @@ import com.dnslin.system.api.domain.SysFile;
 /**
  * 文件请求处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 public class SysFileController
