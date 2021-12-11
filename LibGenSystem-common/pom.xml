@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.dnslin</groupId>
+        <artifactId>LibGenSystem</artifactId>
+        <version>3.2.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>LibGenSystem-common-log</module>
+        <module>LibGenSystem-common-core</module>
+        <module>LibGenSystem-common-redis</module>
+        <module>LibGenSystem-common-swagger</module>
+        <module>LibGenSystem-common-security</module>
+        <module>LibGenSystem-common-datascope</module>
+		<module>LibGenSystem-common-datasource</module>
+    </modules>
+
+    <artifactId>LibGenSystem-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+	    LibGenSystem-common通用模块
+    </description>
+
+</project>

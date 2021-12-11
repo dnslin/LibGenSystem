@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dnslin.common.swagger.config.SwaggerAutoConfiguration,\
+  com.dnslin.common.swagger.config.SwaggerWebConfiguration

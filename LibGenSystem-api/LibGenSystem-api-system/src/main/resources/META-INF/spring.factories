@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dnslin.system.api.factory.RemoteUserFallbackFactory,\
+  com.dnslin.system.api.factory.RemoteLogFallbackFactory, \
+  com.dnslin.system.api.factory.RemoteFileFallbackFactory

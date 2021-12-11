@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dnslin.common.security.config.WebMvcConfig,\
+  com.dnslin.common.security.service.TokenService,\
+  com.dnslin.common.security.aspect.PreAuthorizeAspect,\
+  com.dnslin.common.security.aspect.InnerAuthAspect,\
+  com.dnslin.common.security.handler.GlobalExceptionHandler

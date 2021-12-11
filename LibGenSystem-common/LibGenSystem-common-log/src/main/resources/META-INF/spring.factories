@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dnslin.common.log.service.AsyncLogService,\
+  com.dnslin.common.log.aspect.LogAspect
