@@ -1,6 +1,5 @@
 package com.dnslin.auth.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import com.dnslin.common.core.constant.Constants;
 import com.dnslin.common.core.constant.SecurityConstants;
@@ -18,6 +17,8 @@ import com.dnslin.system.api.domain.SysLogininfor;
 import com.dnslin.system.api.domain.SysUser;
 import com.dnslin.system.api.model.LoginUser;
 
+import javax.annotation.Resource;
+
 /**
  * 登录校验方法
  * 
@@ -26,10 +27,10 @@ import com.dnslin.system.api.model.LoginUser;
 @Component
 public class SysLoginService
 {
-    @Autowired
+    @Resource
     private RemoteLogService remoteLogService;
 
-    @Autowired
+    @Resource
     private RemoteUserService remoteUserService;
 
     /**
