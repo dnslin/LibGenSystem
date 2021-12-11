@@ -12,7 +12,7 @@ import com.dnslin.gateway.handler.ValidateCodeHandler;
 /**
  * 路由配置信息
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Configuration
 public class RouterFunctionConfiguration

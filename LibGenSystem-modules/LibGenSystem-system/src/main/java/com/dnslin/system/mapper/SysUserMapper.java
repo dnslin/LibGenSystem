@@ -7,7 +7,7 @@ import com.dnslin.system.api.domain.SysUser;
 /**
  * 用户表 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface SysUserMapper
 {

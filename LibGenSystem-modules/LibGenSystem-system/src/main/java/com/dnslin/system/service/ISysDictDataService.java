@@ -6,7 +6,7 @@ import com.dnslin.system.api.domain.SysDictData;
 /**
  * 字典 业务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysDictDataService
 {

@@ -18,7 +18,7 @@ import com.dnslin.system.service.ISysConfigService;
 /**
  * 参数配置 服务层实现
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class SysConfigServiceImpl implements ISysConfigService

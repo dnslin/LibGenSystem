@@ -9,7 +9,7 @@ import com.dnslin.gateway.handler.SentinelFallbackHandler;
 /**
  * 网关限流配置
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Configuration
 public class GatewayConfig

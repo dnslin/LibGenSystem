@@ -6,7 +6,7 @@ import com.dnslin.job.domain.SysJob;
 /**
  * 调度任务信息 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface SysJobMapper
 {

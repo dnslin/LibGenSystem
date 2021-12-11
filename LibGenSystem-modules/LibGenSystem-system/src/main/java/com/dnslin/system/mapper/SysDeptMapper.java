@@ -7,7 +7,7 @@ import com.dnslin.system.api.domain.SysDept;
 /**
  * 部门管理 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface SysDeptMapper
 {

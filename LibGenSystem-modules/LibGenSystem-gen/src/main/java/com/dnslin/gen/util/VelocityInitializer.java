@@ -7,7 +7,7 @@ import com.dnslin.common.core.constant.Constants;
 /**
  * VelocityEngine工厂
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class VelocityInitializer
 {

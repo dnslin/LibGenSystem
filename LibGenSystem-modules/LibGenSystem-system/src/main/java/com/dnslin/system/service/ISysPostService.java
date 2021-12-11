@@ -6,7 +6,7 @@ import com.dnslin.system.domain.SysPost;
 /**
  * 岗位信息 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysPostService
 {

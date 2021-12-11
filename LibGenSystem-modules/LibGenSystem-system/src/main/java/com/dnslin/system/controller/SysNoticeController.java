@@ -24,7 +24,7 @@ import com.dnslin.system.service.ISysNoticeService;
 /**
  * 公告 信息操作处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/notice")

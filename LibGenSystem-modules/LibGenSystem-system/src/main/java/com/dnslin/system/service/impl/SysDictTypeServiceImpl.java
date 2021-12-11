@@ -18,7 +18,7 @@ import com.dnslin.system.service.ISysDictTypeService;
 /**
  * 字典 业务层处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class SysDictTypeServiceImpl implements ISysDictTypeService

@@ -11,7 +11,7 @@ import com.dnslin.system.api.domain.SysDictData;
 /**
  * 字典工具类
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class DictUtils
 {

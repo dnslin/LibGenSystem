@@ -11,7 +11,7 @@ import com.dnslin.system.service.ISysDictDataService;
 /**
  * 字典 业务层处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class SysDictDataServiceImpl implements ISysDictDataService

@@ -6,7 +6,7 @@ import com.dnslin.system.api.domain.SysOperLog;
 /**
  * 操作日志 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysOperLogService
 {

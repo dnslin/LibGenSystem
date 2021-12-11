@@ -11,7 +11,7 @@ import com.dnslin.common.core.web.domain.BaseEntity;
 /**
  * 业务表 gen_table
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class GenTable extends BaseEntity
 {

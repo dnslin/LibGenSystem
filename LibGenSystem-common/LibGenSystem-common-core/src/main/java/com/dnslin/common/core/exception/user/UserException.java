@@ -5,7 +5,7 @@ import com.dnslin.common.core.exception.base.BaseException;
 /**
  * 用户信息异常类
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class UserException extends BaseException
 {

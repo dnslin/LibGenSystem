@@ -6,7 +6,7 @@ import com.dnslin.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysUserOnlineService
 {

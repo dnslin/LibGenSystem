@@ -18,7 +18,7 @@ import com.dnslin.job.domain.SysJob;
 /**
  * 定时任务工具类
  * 
- * @author ruoyi
+ * @author DnsLin
  *
  */
 public class ScheduleUtils

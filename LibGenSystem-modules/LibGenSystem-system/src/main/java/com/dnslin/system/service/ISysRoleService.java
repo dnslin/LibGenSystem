@@ -8,7 +8,7 @@ import com.dnslin.system.domain.SysUserRole;
 /**
  * 角色业务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysRoleService
 {

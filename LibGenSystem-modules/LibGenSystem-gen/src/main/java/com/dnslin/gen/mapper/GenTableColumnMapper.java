@@ -6,7 +6,7 @@ import com.dnslin.gen.domain.GenTableColumn;
 /**
  * 业务字段 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface GenTableColumnMapper
 {

@@ -8,7 +8,7 @@ import com.dnslin.common.swagger.annotation.EnableCustomSwagger2;
 /**
  * 文件服务
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @EnableCustomSwagger2
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })
