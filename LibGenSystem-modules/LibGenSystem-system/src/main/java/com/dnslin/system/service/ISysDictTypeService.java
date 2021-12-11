@@ -7,7 +7,7 @@ import com.dnslin.system.api.domain.SysDictType;
 /**
  * 字典 业务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysDictTypeService
 {

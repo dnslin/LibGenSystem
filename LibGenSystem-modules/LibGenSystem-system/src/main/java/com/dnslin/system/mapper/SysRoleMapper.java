@@ -6,7 +6,7 @@ import com.dnslin.system.api.domain.SysRole;
 /**
  * 角色表 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface SysRoleMapper
 {

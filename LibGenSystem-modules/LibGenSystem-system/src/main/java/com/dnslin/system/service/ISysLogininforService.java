@@ -6,7 +6,7 @@ import com.dnslin.system.api.domain.SysLogininfor;
 /**
  * 系统访问日志情况信息 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysLogininforService
 {

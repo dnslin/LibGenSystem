@@ -31,7 +31,7 @@ import com.dnslin.system.service.ISysUserService;
 /**
  * 用户 业务层处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

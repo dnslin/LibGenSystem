@@ -20,7 +20,7 @@ import com.dnslin.system.api.model.LoginUser;
 /**
  * token验证处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Component
 public class TokenService

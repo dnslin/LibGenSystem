@@ -7,7 +7,7 @@ import com.dnslin.system.domain.SysMenu;
 /**
  * 菜单表 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface SysMenuMapper
 {

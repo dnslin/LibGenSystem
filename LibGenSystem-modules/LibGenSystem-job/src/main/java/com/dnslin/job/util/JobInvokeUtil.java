@@ -11,7 +11,7 @@ import com.dnslin.job.domain.SysJob;
 /**
  * 任务执行工具
  *
- * @author ruoyi
+ * @author DnsLin
  */
 public class JobInvokeUtil
 {

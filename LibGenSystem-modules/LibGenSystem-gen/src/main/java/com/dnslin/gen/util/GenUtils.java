@@ -11,7 +11,7 @@ import com.dnslin.gen.domain.GenTableColumn;
 /**
  * 代码生成器 工具类
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class GenUtils
 {

@@ -20,7 +20,7 @@ import reactor.core.publisher.Flux;
 /**
  * 验证码过滤器
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Component
 public class ValidateCodeFilter extends AbstractGatewayFilterFactory<Object>

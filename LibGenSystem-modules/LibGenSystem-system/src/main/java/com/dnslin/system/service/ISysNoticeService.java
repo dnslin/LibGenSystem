@@ -6,7 +6,7 @@ import com.dnslin.system.domain.SysNotice;
 /**
  * 公告 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysNoticeService
 {

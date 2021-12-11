@@ -7,7 +7,7 @@ import com.dnslin.common.core.web.domain.AjaxResult;
 /**
  * 验证码处理
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ValidateCodeService
 {

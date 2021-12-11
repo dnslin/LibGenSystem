@@ -14,7 +14,7 @@ import com.dnslin.gen.domain.GenTableColumn;
 /**
  * 模板工具类
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public class VelocityUtils
 {

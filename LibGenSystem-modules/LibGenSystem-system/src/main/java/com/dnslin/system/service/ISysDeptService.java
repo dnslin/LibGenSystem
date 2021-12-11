@@ -7,7 +7,7 @@ import com.dnslin.system.domain.vo.TreeSelect;
 /**
  * 部门管理 服务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysDeptService
 {

@@ -6,7 +6,7 @@ import com.dnslin.common.core.utils.StringUtils;
 /**
  * 定时任务调度测试
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Component("ryTask")
 public class RyTask

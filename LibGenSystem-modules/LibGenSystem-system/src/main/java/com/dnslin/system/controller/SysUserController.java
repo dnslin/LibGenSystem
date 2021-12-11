@@ -41,7 +41,7 @@ import com.dnslin.system.service.ISysUserService;
 /**
  * 用户信息
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @RestController
 @RequestMapping("/user")

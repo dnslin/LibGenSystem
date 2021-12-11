@@ -9,7 +9,7 @@ import com.dnslin.common.swagger.annotation.EnableCustomSwagger2;
 /**
  * 定时任务
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @EnableCustomConfig
 @EnableCustomSwagger2   

@@ -18,7 +18,7 @@ import com.dnslin.job.service.ISysJobLogService;
 /**
  * 抽象quartz调用
  *
- * @author ruoyi
+ * @author DnsLin
  */
 public abstract class AbstractQuartzJob implements Job
 {

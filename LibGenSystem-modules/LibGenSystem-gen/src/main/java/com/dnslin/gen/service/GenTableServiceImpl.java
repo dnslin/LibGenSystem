@@ -39,7 +39,7 @@ import com.dnslin.gen.util.VelocityUtils;
 /**
  * 业务 服务层实现
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 @Service
 public class GenTableServiceImpl implements IGenTableService

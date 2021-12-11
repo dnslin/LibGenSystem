@@ -6,7 +6,7 @@ import com.dnslin.gen.domain.GenTable;
 /**
  * 业务 数据层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface GenTableMapper
 {

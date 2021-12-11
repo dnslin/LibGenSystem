@@ -6,7 +6,7 @@ import com.dnslin.system.api.domain.SysUser;
 /**
  * 用户 业务层
  * 
- * @author ruoyi
+ * @author DnsLin
  */
 public interface ISysUserService
 {
