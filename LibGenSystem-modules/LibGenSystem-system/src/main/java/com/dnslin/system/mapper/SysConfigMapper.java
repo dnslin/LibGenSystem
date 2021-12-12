@@ -3,12 +3,14 @@ package com.dnslin.system.mapper;
 import java.util.List;
 
 import com.dnslin.system.domain.SysConfig;
+import org.springframework.stereotype.Repository;
 
 /**
  * 参数配置 数据层
  *
  * @author DnsLin
  */
+@Repository
 public interface SysConfigMapper {
     /**
      * 查询参数配置信息
