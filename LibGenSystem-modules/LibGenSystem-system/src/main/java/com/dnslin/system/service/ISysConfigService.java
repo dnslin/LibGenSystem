@@ -34,6 +34,15 @@ public interface ISysConfigService {
      */
     List<SysConfig> selectConfigList(SysConfig config);
 
+
+    /**
+     * 新增参数配置
+     *
+     * @param config 参数配置信息
+     * @return 结果
+     */
+    int insertConfig(SysConfig config);
+
     /**
      * 修改参数配置
      *
