@@ -4,12 +4,14 @@ import java.util.List;
 
 import org.apache.ibatis.annotations.Param;
 import com.dnslin.system.api.domain.SysDept;
+import org.springframework.stereotype.Repository;
 
 /**
  * 部门管理 数据层
  *
  * @author DnsLin
  */
+@Repository
 public interface SysDeptMapper {
     /**
      * 查询部门管理数据

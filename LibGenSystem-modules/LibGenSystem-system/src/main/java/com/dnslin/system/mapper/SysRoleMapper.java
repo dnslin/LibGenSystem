@@ -3,12 +3,14 @@ package com.dnslin.system.mapper;
 import java.util.List;
 
 import com.dnslin.system.api.domain.SysRole;
+import org.springframework.stereotype.Repository;
 
 /**
  * 角色表 数据层
  *
  * @author DnsLin
  */
+@Repository
 public interface SysRoleMapper {
     /**
      * 根据条件分页查询角色数据
